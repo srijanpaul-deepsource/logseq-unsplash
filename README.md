@@ -24,8 +24,8 @@ If you're adventurous and want to help refine this until then, see development i
 
 ## Someday / Maybe
 
--   [ ] Pagination
--   [ ] Infinite Scrolling
--   [ ] Option to store images locally
--   [ ] Keyboard navigation
--   [ ] Tags / Suggestions
+- [ ] Pagination
+- [ ] Infinite Scrolling
+- [ ] Option to store images locally
+- [ ] Keyboard navigation
+- [ ] Tags / Suggestions
